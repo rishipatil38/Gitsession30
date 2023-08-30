@@ -1,0 +1,37 @@
+Whiteboard : 
+
+https://prnt.sc/yRr-TH0NPqZS
+https://prnt.sc/kW8rGHyi4Iqf
+
+1  ls
+    2  git init
+    3  git status
+    4  git add main.txt
+    5  git status
+    6  git rm --cached main.txt
+    7  git status
+    8  git add .
+    9  git status
+   10  git config --global user.name " aman "
+   11  git config --global user.mail " aman@gmail.com "
+   12  git commit -m " Committing main .txt file "
+   13  git config --global user.email " aman@gmail.com "
+   14  git commit -m " Committing main .txt file "
+   15  git log
+   16  git status
+   17  git add main.txt
+   18  git commit -m " New changes in main file "
+   19  git log
+   20  git status
+   21  git status
+   22  git add .
+   23  git commit -m " NEw changes "
+   24  git log
+   25  git remote add origin https://github.com/Amanintellipaat/Gitsession30.git
+   26  git remote -v
+   27  git push origin master
+   28  ls
+   29  git status
+   30  git add .
+   31  git commit -m " new file "
+   32  git push origin master
